@@ -21,3 +21,5 @@ Se o trabalhador for tercerizado (outsourced), o sistema faz o cálculo anterior
 	</li>
 	<li>Estruturas Condicionais</li>
 </ol>
+
+![Program](https://user-images.githubusercontent.com/35302072/154172840-459aac16-9b4d-4e01-9653-b82872872b0c.PNG)
